@@ -1,5 +1,7 @@
 # tipeasy
 
+ Creator: Patrick Tsui
+
  A quick way to do your calculations for your tips.
  
  I made this so that you can avoid the harass of doing the math and just jump straight to it. No more stress when you are eatting or drinking out. 
