@@ -18,7 +18,7 @@ function my20p(){
     CheckOriginal();
 }
 function myOtherp(){
-    tip = prompt("Please enter an amount for tip (15% is 15):");
+    tip = prompt("Please enter an amount for tip (15% is 15):", "0");
     CheckOriginal();
 }
 function CheckOriginal(){
